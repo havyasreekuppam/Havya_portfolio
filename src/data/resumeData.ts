@@ -13,8 +13,8 @@ export const personalInfo = {
   phone: "+91-8247514424",
   social: {
     leetcode: "https://leetcode.com/u/Havya_Sree/",
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/havyasreekuppam",
+    linkedin: "https://www.linkedin.com/in/havya-sree-kuppam-6171a9299/",
   },
 };
 
