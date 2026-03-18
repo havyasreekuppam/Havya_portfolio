@@ -157,7 +157,7 @@ export const achievements = [
 ];
 
 export const stats = [
-  { value: "9.12", label: "CGPA", suffix: "" },
+  { value: "9.07", label: "CGPA", suffix: "" },
   { value: "3", label: "Major Projects", suffix: "+" },
   { value: "98", label: "12th Score", suffix: "%" },
   { value: "10", label: "10th CGPA", suffix: "" },
